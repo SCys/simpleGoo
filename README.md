@@ -2,6 +2,8 @@
 
 简单粗暴小范围能够运作，欢迎任何提议
 
+参考了： AirGoo[https://github.com/spance/AirGoo]
+
 依赖 python3.4, tornado 4.1
 
 程序本地localhost:2000，通过nginx做反向代理进行访问
